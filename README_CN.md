@@ -8,3 +8,8 @@
 数据建模又分为存储建模和分析建模。存储建模是指在应用设计阶段对表结构的设计，而分析建模则是在大数据应用中的数据分析时的建模。
     
 这里，我们主要讨论数据存储建模。    
+   
+[第1章](https://github.com/BardoQi/data-pattern/blob/master/chapter_001.md "第1章")
+
+  
+[第2章](https://github.com/BardoQi/data-pattern/blob/master/chapter_002.md "第2章")
