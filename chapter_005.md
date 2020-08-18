@@ -15,7 +15,7 @@
 -- Table structure for xx_partner
 -- ----------------------------
 DROP TABLE IF EXISTS `xx_partner`;
-CREATE TABLE `mj_partner`  (
+CREATE TABLE `xx_partner`  (
   `id` int(11) NOT NULL AUTO_INCREMENT COMMENT '业务伙伴ID',
   `partner_name` varchar(60) CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT '' COMMENT '业务伙伴名称（组织全称，个人姓名）',
   `partner_no` varchar(32) CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT '' COMMENT '业务伙伴编号(员工，则是员工号）',
