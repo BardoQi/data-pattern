@@ -13,3 +13,6 @@
 
   
 [第2章](https://github.com/BardoQi/data-pattern/blob/master/chapter_002.md "第2章")
+
+ 
+[第3章](https://github.com/BardoQi/data-pattern/blob/master/chapter_003.md "第3章")
