@@ -10,9 +10,11 @@
 这里，我们主要讨论数据存储建模。    
    
 [第1章](https://github.com/BardoQi/data-pattern/blob/master/chapter_001.md "第1章")
-
-  
+     
 [第2章](https://github.com/BardoQi/data-pattern/blob/master/chapter_002.md "第2章")
-
- 
+  
 [第3章](https://github.com/BardoQi/data-pattern/blob/master/chapter_003.md "第3章")
+  
+[第4章](https://github.com/BardoQi/data-pattern/blob/master/chapter_004.md "第4章")
+  
+[第5章](https://github.com/BardoQi/data-pattern/blob/master/chapter_005.md "第5章")
